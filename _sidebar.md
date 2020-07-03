@@ -1,0 +1,14 @@
+- Vue.js生命周期
+  - [生命周期篇综述](docs/lifecycle/index.md)
+  - [初始化阶段(initEvents)](docs/lifecycle/initEvents.md)
+  - [初始化阶段(initInjections)](docs/lifecycle/initInjections.md)
+  - [初始化阶段(initLifecycle)](docs/lifecycle/initLifecycle.md)
+  - [初始化阶段(initState)](docs/lifecycle/initState.md)
+  - [初始化阶段(new Vue)](docs/lifecycle/newVue.md)
+  - [挂载阶段](docs/lifecycle/mount.md)
+  - [模板编译阶段](docs/lifecycle/templateComplie.md)
+  - [销毁阶段](docs/lifecycle/destory.md)
+
+- docsify和Git指南
+  - [基于Github+docsify博客搭建](docs/Note/基于Github+docsify博客搭建.md)
+  - [使用Git上传本地项目到GitHub](docs/Note/使用Git上传本地项目到GitHub.md)
